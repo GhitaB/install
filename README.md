@@ -11,3 +11,4 @@ I use. I need.
 * dropbox
 * [Skype](https://www.skype.com/en/get-skype/)
 * GIMP
+* kdenlive
