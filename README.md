@@ -10,3 +10,4 @@ I use. I need.
 * git
 * dropbox
 * [Skype](https://www.skype.com/en/get-skype/)
+* GIMP
