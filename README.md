@@ -12,3 +12,4 @@ I use. I need.
 * [Skype](https://www.skype.com/en/get-skype/)
 * GIMP
 * kdenlive
+* mc
