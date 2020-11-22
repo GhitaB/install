@@ -14,3 +14,4 @@ I use. I need.
 * kdenlive
 * mc
 * [IceFact](https://icesoft.ro/)
+* virtualbox
