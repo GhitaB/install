@@ -13,3 +13,4 @@ I use. I need.
 * GIMP
 * kdenlive
 * mc
+* [IceFact](https://icesoft.ro/)
