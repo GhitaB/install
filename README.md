@@ -15,3 +15,4 @@ I use. I need.
 * mc
 * [IceFact](https://icesoft.ro/)
 * virtualbox
+* docker
