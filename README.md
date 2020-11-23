@@ -17,3 +17,4 @@ I use. I need.
 * virtualbox
 * docker
 * docker-compose
+* ssh
