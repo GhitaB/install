@@ -16,3 +16,4 @@ I use. I need.
 * [IceFact](https://icesoft.ro/)
 * virtualbox
 * docker
+* docker-compose
