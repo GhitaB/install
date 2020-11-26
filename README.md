@@ -19,5 +19,6 @@ I use. I need.
 * docker-compose
 * ssh
 * python2
+* python2-dev
 * virtualenv
 * cmus **
