@@ -20,3 +20,4 @@ I use. I need.
 * ssh
 * python2
 * virtualenv
+* cmus **
