@@ -22,3 +22,4 @@ I use. I need.
 * python2-dev
 * virtualenv
 * cmus **
+* lynx
