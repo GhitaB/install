@@ -24,3 +24,12 @@ I use. I need.
 * cmus **
 * lynx
 * graphviz
+* graphviz-dev
+* libsvn-dev
+* libxml2-dev
+* wv
+* libjpeg-dev
+* libsasl2-dev
+* pdftk
+* libssl-dev
+* libcurl3-dev
