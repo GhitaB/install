@@ -23,3 +23,4 @@ I use. I need.
 * virtualenv
 * cmus **
 * lynx
+* graphviz
