@@ -33,3 +33,4 @@ I use. I need.
 * pdftk
 * libssl-dev
 * libcurl3-dev
+* inkscape
