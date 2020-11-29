@@ -8,6 +8,7 @@ I use. I need.
 * Fish
 * Oh My Fish (curl -L https://get.oh-my.fish | fish)
 * Bob the fish (omf install bobthefish)
+* fonts-powerline (sudo apt-get install fonts-powerline)
 * curl
 * git
 * dropbox
