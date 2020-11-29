@@ -38,3 +38,4 @@ I use. I need.
 * libcurl3-dev
 * inkscape
 * Google Fonts
+* node (sudo apt install nodejs)
