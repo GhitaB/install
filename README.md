@@ -39,3 +39,4 @@ I use. I need.
 * inkscape
 * Google Fonts
 * node (sudo apt install nodejs)
+* npm (sudo apt install npm)
