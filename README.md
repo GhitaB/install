@@ -7,6 +7,7 @@ I use. I need.
 * Krita
 * Fish
 * Oh My Fish (curl -L https://get.oh-my.fish | fish)
+* Bob the fish (omf install bobthefish)
 * curl
 * git
 * dropbox
