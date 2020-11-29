@@ -37,3 +37,4 @@ I use. I need.
 * libssl-dev
 * libcurl3-dev
 * inkscape
+* Google Fonts
