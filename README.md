@@ -40,3 +40,4 @@ I use. I need.
 * Google Fonts
 * node (sudo apt install nodejs)
 * npm (sudo apt install npm)
+* home/tools,tools3 - virtualenv -p2 ./, virtualenv -p3 ./, ./bin/pip install pynvim,pyflakes,flake8
