@@ -42,3 +42,4 @@ I use. I need.
 * npm (sudo apt install npm)
 * home/tools,tools3 - virtualenv -p2 ./, virtualenv -p3 ./, ./bin/pip install pynvim,pyflakes,flake8 (:so /home/ghitabizau/.config/nvim/init.vim, :checkhealth)
 * python3-venv
+* filezilla
