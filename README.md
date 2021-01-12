@@ -45,3 +45,4 @@ I use. I need.
 * filezilla
 * WiKID
 * Authy (mobile app) + https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication
+* python3-tk
